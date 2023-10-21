@@ -10,7 +10,7 @@ Cyber Security Professional Projects
   - [Created custom analytics rules using KQL to enable the detection of specific security events and patterns](https://github.com/joshmadakor1/AD_PS)
   - [Conducted incident investigations using SIEM tools and techniques to analyze cybersecurity incidents](https://github.com/joshmadakor1/AD_PS)
   - [Implemented remediation actions to mitigate and resolve identified cybersecurity incidents](https://github.com/joshmadakor1/AD_PS)
-- <b>Vulnerability Assessment Lab</b>
+- <b>Vulnerability Assessment Lab (Nessus Scanner)</b>
   - [Installed and configured Nessus vulnerability scanner on the Windows VM](https://github.com/joshmadakor1/AD_PS)
   - [Conducted comprehensive vulnerability scans using Nessus, including credential scans](https://github.com/joshmadakor1/AD_PS)
   - [Identified and analyzed vulnerabilities in the system and installed vulnerable software for testing purposes](https://github.com/joshmadakor1/AD_PS)
