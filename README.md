@@ -2,7 +2,7 @@
 Cyber Security Professional Projects
 <h1>Hi, I'm Kamron!
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Professional Projects:</h2>
 
 - <b>SIEM Implementation in Azure Cloud (Microsoft Sentinel)</b>
   - [Successfully deployed Microsoft Sentinel a SIEM solution in Azure Cloud](https://github.com/joshmadakor1/AD_PS)
