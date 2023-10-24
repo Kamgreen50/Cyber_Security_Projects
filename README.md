@@ -5,7 +5,7 @@ Cyber Security Professional Projects
 <h2>👨‍💻 Cyber Security Professional Projects:</h2>
 
 - <b>SIEM Implementation in Azure Cloud (Microsoft Sentinel)</b>
-  - [Successfully deployed Microsoft Sentinel in Azure Cloud](https://github.com/joshmadakor1/AD_PS)
+  - [Successfully deployed Microsoft Sentinel in Azure Cloud](https://github.com/Kamgreen50/SEIM-implementation-in-azure-cloud)
   - [Implemented advanced techniques and configurations to enhance the SIEM solution's threat detection capabilities](https://github.com/joshmadakor1/AD_PS)
   - [Created custom analytics rules using KQL to enable the detection of specific security events and patterns](https://github.com/joshmadakor1/AD_PS)
   - [Conducted incident investigations using SIEM tools and techniques to analyze cybersecurity incidents](https://github.com/joshmadakor1/AD_PS)
